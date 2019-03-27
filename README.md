@@ -1,1 +1,1 @@
-# Single-Layer-Neural-Network
+# Single-Hidden-Layer-Neural-Network
